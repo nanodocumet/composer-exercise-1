@@ -1,0 +1,6 @@
+{
+    "name": "sample/composer-exercise-1",
+    "require": {
+        "laravel/lumen-framework": "^5.2"
+    }
+}
